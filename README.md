@@ -3,7 +3,7 @@ This repository is the collection of KGAN's tutorial projects to help my co-prog
 
 ## Contents
 
-- PHYTHON
+- PYTHON
 - SKETCHWARE
 - C++
 - WEB DEVELOPMENT 
