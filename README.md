@@ -3,7 +3,7 @@ This repository is the collection of KGAN's tutorial projects to help my co-prog
 
 ## Contents
 
-- [PYTHON](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/PHYTON/PY.md)
+- [PYTHON](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/PYTHON/PY.md)
 - SKETCHWARE
 - C++
 - WEB DEVELOPMENT 
