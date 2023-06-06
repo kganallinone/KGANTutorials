@@ -49,4 +49,4 @@ No data
 
 ## Others Projects/Samples
 
-[<kbd> <br>Goto Others Projects</kbd>](#Contents) [<kbd> <br>Goto Others Blocks</kbd>](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/Blocks)
+[<kbd> <br>Goto Others Projects</kbd>](https://github.com/kganallinone/KGANTutorials/tree/main/KGAN's%20COLLECTIONS/SKETCHWARE/Projects/Others) [<kbd> <br>Goto Others Blocks</kbd>](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/Blocks)
