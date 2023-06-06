@@ -1,7 +1,7 @@
  Home | [Learn SP Contents](https://github.com/kganallinone/KGANTutorials/edit/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/lessons.md#contents) | < Previous | Next > 
 ______________________________________________
 # Learn Sketchware Pro
-Author: Kent Gabriel Nuite
+Author: Kent Gabriel Nuite 
 
 ## What is Sketchware Pro?
 
