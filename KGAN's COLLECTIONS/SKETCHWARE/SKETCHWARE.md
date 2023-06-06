@@ -7,7 +7,7 @@
 
 ## ABOUT
 
-[Sketchware Pro](https://sketchware-docs.vercel.app/docs/getting-started.html) is a modified version of the popular app building tool Sketchware that includes additional features and improvements. Our repository welcomes contributions from anyone interested in adding new features and functionalities to the app.
+[Sketchware Pro](https://sketchware-docs.vercel.app/docs/getting-started.html) is a modified version of the famous mobile app development tool Sketchware that contains new features and enhancements. The used of this free scratch based integrated development environment (IDE) is for developing real android applications using eXtensible Markup Language (XML) for front-end and Java for back-end.
 
 [<kbd> <br><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="12"/> Github Sketchware<br> </kbd>](https://github.com/Sketchware-Pro/Sketchware-Pro)
 
