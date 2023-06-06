@@ -25,10 +25,13 @@ Anyone interested in adding new features and functionality to the app is welcome
 No data
 
 ## Contents
+- Sketchware Get Started
+  - Create Project
+  - Install SWB file
 - Sketchware View
-  1. Layouts
-  2. Widgets
-  3. List
+  - Layouts
+  - Widgets
+  - List
 - Sketchware Events
 - Sketchware Components
 - Sketchware Library
