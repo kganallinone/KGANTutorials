@@ -36,4 +36,8 @@ No data
 - Sketchware Components
 - Sketchware Library
 - Sketchware Blocks
+  - Default Blocks
+  - MoreBlocks
+  - KGAN Blocks (Collections)
+  - Others Blocks (Collections)
 
