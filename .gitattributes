@@ -5,3 +5,4 @@
 *.md linguist-detectable=true
 *.swb linguist-detectable=true
 *.zip linguist-detectable=true
+*.sh linguist-detectable=true
