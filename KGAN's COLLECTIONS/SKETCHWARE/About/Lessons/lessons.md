@@ -1,4 +1,4 @@
- Home | [Learn SP Contents]() | < Previous | Next > 
+ Home | [Learn SP Contents](#Contents) | < Previous | Next > 
 ______________________________________________
 # Learn Sketchware Pro
 ### Author: Kent Gabriel Nuite  
