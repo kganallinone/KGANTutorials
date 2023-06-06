@@ -6,6 +6,7 @@ ______________________________________________
 <p align="center">
     <img src="https://github.com/kganallinone/KGANTutorials/assets/86733485/bf176c15-0e11-4a12-bc3b-6c04ee372bc8" heigth="100" weigth="100"/>
 </p>
+
 ## What is Sketchware Pro?
 
 It is a modified version of the famous mobile app development tool *Sketchware* that contains new features and enhancements. The used of this free scratch based integrated development environment (IDE) is for developing real android applications using eXtensible Markup Language (XML) for front-end and Java for back-end . 
