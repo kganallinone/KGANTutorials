@@ -17,7 +17,10 @@
 - Blocks (Coming soon)
 
 ## DISCOVER MORE
-- YouTube Videos from Other Sketchware User
+
+Disclaimer: The linked contents here are not mine.
+
+- YouTube
 - Discord
 - Telegrams
 
