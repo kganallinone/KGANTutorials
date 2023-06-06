@@ -12,7 +12,7 @@
 [<kbd> <br><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="12"/> Github Sketchware<br> </kbd>](https://github.com/Sketchware-Pro/Sketchware-Pro)
 
 ## CONTENTS
-- Lessons
+- [Lessons](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/lessons.md)
 - Tutorials (Coming soon)
 - SWB file (Coming soon)
 - Blocks (Coming soon)
