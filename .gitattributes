@@ -4,3 +4,4 @@
 *.py linguist-detectable=true
 *.md linguist-detectable=true
 *.swb linguist-detectable=true
+*.zip linguist-detectable=true
