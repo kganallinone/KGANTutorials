@@ -38,11 +38,15 @@ No data
 - Sketchware Blocks
   - Default Blocks
   - MoreBlocks
-  - KGAN Blocks (Collections)
-  - Others Blocks (Collections)
+
+## Note
+- For Zip files the password is "kgan"
+- ....
 
 ## KGAN Projects/Samples
 
-[<kbd> <br>Goto KGAN Projects</kbd>]()
+[<kbd> <br>Goto KGAN Projects</kbd>](#Contents) [<kbd> <br>Goto KGAN Blocks</kbd>](#Contents)
 
+## Others Projects/Samples
 
+[<kbd> <br>Goto Others Projects</kbd>](#Contents) [<kbd> <br>Goto Others Blocks</kbd>](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/Blocks/block_collection.zip)
