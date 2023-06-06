@@ -1,4 +1,4 @@
- Home | [TouTube Contents](#Contents) | < Previous | Next > 
+ [Home](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/SKETCHWARE.md#discover-more) | [TouTube Contents](#Contents) | < Previous | Next > 
 ______________________________________________
 # Learn More
 
