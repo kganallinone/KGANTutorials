@@ -8,9 +8,8 @@
 
 [Sketchware Pro](https://sketchware-docs.vercel.app/docs/getting-started.html) is a modified version of the popular app building tool Sketchware that includes additional features and improvements. Our repository welcomes contributions from anyone interested in adding new features and functionalities to the app.
 
-![image_processing20220801-17461-1m9zilq]()
 
-[<img src="https://github.com/kganallinone/KGANTutorials/assets/86733485/b9eab242-090a-499c-aef6-ffec50ecbd6c" width="12"/> GithubSketchware](https://github.com/Sketchware-Pro/Sketchware-Pro)
+[<img src="https://github.com/kganallinone/KGANTutorials/assets/86733485/b9eab242-090a-499c-aef6-ffec50ecbd6c" width="12"/> GithubSketchware](https://github.com/Sketchware-Pro/Sketchware-Pro) [<img src="https://github.com/kganallinone/KGANTutorials/assets/86733485/b9eab242-090a-499c-aef6-ffec50ecbd6c" width="12"/> GithubSketchware](https://github.com/Sketchware-Pro/Sketchware-Pro)
 
 ## CONTENTS
 - Tutorials (Coming soon)
