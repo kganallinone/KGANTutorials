@@ -1,7 +1,7 @@
 *.css linguist-detectable=true
 *.html linguist-detectable=true
 *.toc linguist-detectable=false
-*.py linguist-detectable=true
+*.py linguist-detectable=false
 *.md linguist-detectable=true
 *.swb linguist-detectable=true
 *.zip linguist-detectable=true
