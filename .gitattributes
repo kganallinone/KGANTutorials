@@ -2,7 +2,7 @@
 *.html linguist-detectable=true
 *.toc linguist-detectable=false
 *.py linguist-detectable=false
-*.md linguist-detectable=true
+*.md linguist-detectable=false
 *.swb linguist-detectable=true
 *.zip linguist-detectable=true
 *.sh linguist-detectable=true
