@@ -20,9 +20,7 @@
 Disclaimer: The linked contents here are not mine.
 
 - [YouTube](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/DiscoverMe/YouTube.md)
-- Discord
-- Telegrams
-
+- Sites
 
 ## DOWNLOAD
 
