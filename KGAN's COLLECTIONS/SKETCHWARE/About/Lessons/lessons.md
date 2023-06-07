@@ -25,10 +25,10 @@ Anyone interested in adding new features and functionality to the app is welcome
 No data
 
 ## Contents
-- Sketchware Get Started
-  - Create Project
-  - Install SWB file
-- Sketchware View
+- [Sketchware Get Started](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/lessons.md)
+  - [Create Project](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/lessons.md)
+  - [Install SWB file](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/lessons.md)
+- [Sketchware View](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/lessons.md)
   - Layouts
   - Widgets
   - List
