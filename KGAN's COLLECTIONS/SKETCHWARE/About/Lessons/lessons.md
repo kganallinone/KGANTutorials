@@ -32,6 +32,10 @@ Step 3: Go to your File Manage, Tap the Internal Storage and Search *Download* d
 
 Step 4: Find the *Sketchware_Pro_v6.4.0-rc05-minApi26.apk*, then install the app. Done!
 
+### Requirements
+Operating System: Android
+Storage: 113.68 MB of storage space
+
 ## Contents
 - [Sketchware Get Started](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/Sketchware_GetStarted.md#learn-sketchware-pro--get-started)
   - [Create Project](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/Sketchware_GetStarted.md#create-project)
