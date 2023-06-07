@@ -66,7 +66,7 @@ Step 8: Tap *app version project*, In **Advance Version Control** you can edit *
 <p align="center">
     <img src="https://github.com/kganallinone/KGANTutorials/assets/86733485/52f15a79-0a2b-43eb-b76f-d0393ab9e32e" heigth="100" weigth="300"/> <br>
  <em>App Version Poject</em> <br>
-    <img src="https://github.com/kganallinone/KGANTutorials/assets/86733485/d9afa41f-9f34-4e84-9604-674508762dec" heigth="100" weigth="300"/> <br>
+    <img src="https://github.com/kganallinone/KGANTutorials/assets/86733485/6f97d146-24ae-45b7-bfa0-f2eebd94e7dc" heigth="100" weigth="300"/> <br>
      <em>Advance Version Control</em>
 </p>
 
