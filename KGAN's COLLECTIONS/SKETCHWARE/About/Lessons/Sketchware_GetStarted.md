@@ -1,4 +1,4 @@
- Home | [SP View Contents](#Contents) | < Previous | Next > 
+ [Home](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/lessons.md) | [SP View Contents](#Contents) | < Previous | Next > 
 ______________________________________________
 # Learn Sketchware Pro | Get Started
 ### Author: Kent Gabriel Nuite  
