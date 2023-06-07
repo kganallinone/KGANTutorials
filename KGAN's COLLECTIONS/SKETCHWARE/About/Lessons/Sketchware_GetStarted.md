@@ -52,7 +52,7 @@ Step 6: If you want to change appearance default color of your app, tap the part
 
 Step 7: Edit *Package Name*.
 <p align="center">
-    <img src="https://github.com/kganallinone/KGANTutorials/assets/86733485/5ea41096-7283-491e-8a3b-e0c3977f74d3" heigth="100" weigth="50"/>
+    <img src="https://github.com/kganallinone/KGANTutorials/assets/86733485/9053b192-2d42-431d-aa46-846e387e4933" heigth="100" weigth="50"/>
 </p>
 
 Step 8: Edit *Project Name*.
