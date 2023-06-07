@@ -24,4 +24,6 @@ Disclaimer: The linked contents here are not mine.
 
 ## DOWNLOAD
 
+[<kbd> <br> Download Sketchware Pro <br> </kbd>](https://www.mediafire.com/file/ets398zlmd576uj/Sketchware_Pro_v6.4.0-rc05-minApi26.apk/file)  [<kbd> <br> How to Download & Install?  <br> </kbd>](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/lessons.md#how-to-download--install)  
+
 
