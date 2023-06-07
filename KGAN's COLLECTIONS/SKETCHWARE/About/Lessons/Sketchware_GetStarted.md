@@ -29,7 +29,15 @@ Step 4: Enter your application name, then click the *CREATE APP* button. Done.
 ### Additional Step (Optional)
 
 Step 5: Tap the *Advanced Setting* button.
+<p align="center">
+    <img src="https://github.com/kganallinone/KGANTutorials/assets/86733485/29d5ff1e-c8f9-4633-a4e5-38bd1abae70f" heigth="100" weigth="50"/>
+</p>
 Step 6: If you want to change appearance default color of your app, tap the part you want to change.
+<p align="center">
+    <img src="https://github.com/kganallinone/KGANTutorials/assets/86733485/411b83fd-cf5c-40e6-8caa-e978b9937b4b" heigth="100" weigth="300"/> <br>
+     <em>Parts of Sketchware default mobile phone simulator color</em>
+</p>
+
 
 
 ## Install *.sh* or *.swb* Files
