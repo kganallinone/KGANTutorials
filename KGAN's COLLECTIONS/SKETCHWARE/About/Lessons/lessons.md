@@ -49,7 +49,6 @@ Step 4: Find the *Sketchware_Pro_v6.4.0-rc05-minApi26.apk*, then install the app
 
 ## Note
 - For Zip files the password is "kgan"
-- ....
 
 ## KGAN Projects/Samples
 
