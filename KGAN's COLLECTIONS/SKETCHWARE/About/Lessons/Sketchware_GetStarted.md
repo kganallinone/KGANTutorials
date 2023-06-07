@@ -6,9 +6,9 @@ ______________________________________________
 
 ## Contents
 
-- [Get Started with Sketchware](#get-started-with-sketchware-view)
+- [Get Started with Sketchware](#get-started-with-sketchware)
 - [Create Project](#create-project)
-- [Install *.sh* or *.swb* files](#install-.sh-or-.swb-files)
+- [Install *.sh* or *.swb* files](#install-sh-or-swb-files)
 
 ## Get Started with Sketchware
 
