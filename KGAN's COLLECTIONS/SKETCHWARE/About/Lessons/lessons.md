@@ -25,10 +25,10 @@ Anyone interested in adding new features and functionality to the app is welcome
 No data
 
 ## Contents
-- [Sketchware Get Started](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/lessons.md)
-  - [Create Project](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/lessons.md)
-  - [Install SWB file](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/lessons.md)
-- [Sketchware View](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/lessons.md)
+- [Sketchware Get Started](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/Sketchware_GetStarted.md#learn-sketchware-pro--get-started)
+  - [Create Project](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/Sketchware_GetStarted.md#create-project)
+  - [Install SWB file](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/Sketchware_GetStarted.md#install-sh-or-swb-files)
+- [Sketchware View](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/Sketchware_View.md#learn-sketchware-pro--view)
   - Layouts
   - Widgets
   - List
