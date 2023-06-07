@@ -61,7 +61,7 @@ Step 8: Edit *Project Name*.
 </p>
 
 
-Step 8: Tap *app version project*, In **Advance Version Control** you can edit *Version Code*, *Version Name*, and *Version Name Extra* of your application project.
+Step 9: Tap *app version project*, In **Advance Version Control** you can edit *Version Code*, *Version Name*, and *Version Name Extra* of your application project.
 
 <p align="center">
     <img src="https://github.com/kganallinone/KGANTutorials/assets/86733485/52f15a79-0a2b-43eb-b76f-d0393ab9e32e" heigth="100" weigth="300"/> <br>
