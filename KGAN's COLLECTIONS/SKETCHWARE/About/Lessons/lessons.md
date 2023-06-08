@@ -46,10 +46,13 @@ Storage: 113.68 MB of storage space
   - List
 - Sketchware Events
 - Sketchware Components
-- Sketchware Library
+- [Sketchware Library](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/Sketchware_Library.md)
+  - AppCompat and Design
+  - [Firebase](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/Sketchware_Library.md#contents)
 - Sketchware Blocks
   - Default Blocks
   - MoreBlocks
+  - [Custom Blocks]()
 
 ## Note
 - For Zip files the password is "kgan"
