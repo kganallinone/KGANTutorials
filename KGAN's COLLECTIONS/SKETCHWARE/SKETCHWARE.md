@@ -13,7 +13,7 @@
 
 ## CONTENTS
 - [Lessons](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/lessons.md)
-- Tutorials (Coming soon)
+- [Tutorials](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/About/Lessons/Tutorials.md)
 
 ## DISCOVER MORE
 
