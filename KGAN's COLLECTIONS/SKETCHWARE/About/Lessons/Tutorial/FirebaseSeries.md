@@ -8,7 +8,7 @@ ______________________________________________
 </p>
 
 ## Contents
-- [Sketchware] Connect Firebase to Sketchware | Firebase Series Part 1 | K G A N
+- [[Sketchware] Connect Firebase to Sketchware | Firebase Series Part 1 | K G A N](https://youtu.be/4TRUGKlOpnI)
 - [Sketchware] Firebase Realtime-database (Save, Update, Search, and Delete) | Firebase Series Part 2 | K G A N
 - [Sketchware] Firebase Aunthentication (Create Account, Signin Account, Change Password) | Firebase Series Part 3 | K G A N
 - [Sketchware] Firebase Storage (Uploading Image, Display Image) | Firebase Series Part 4 | K G A N
