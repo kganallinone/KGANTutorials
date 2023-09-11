@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>QR Code Scanner</title>
+    <script src="https://cdn.jsdelivr.net/npm/instascan@1.0.1"></script>
+</head>
+<body>
+    <h1>QR Code Scanner</h1>
+    <video id="scanner" width="640" height="480"></video>
+
+    <script>
+        const scanner = new Instascan.Scanner({ video: document.getElementById('scanner') });
+
+        scanner.addListener('scan', function (content) {
+            alert('Scanned: ' + content);
+        });
+
+        Instascan.Camera.getCameras()
+            .then(function (cameras) {
+                if (cameras.length > 0) {
+                    scanner.start(cameras[0]);
+                } else {
+                    console.error('No cameras found.');
+                }
+            })
+            .catch(function (error) {
+                console.error(error);
+            });
+    </script>
+</body>
+</html>
