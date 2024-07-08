@@ -2,7 +2,7 @@
 This repository is the collection of KGAN's tutorial projects to help my co-programmers or other to improve their coding skills.
 
 ## Contents
-- [COLORS] 
+- [COLORS](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/COLOR/COLOR%20SCHEME.md)
 - [SKETCHWARE](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/SKETCHWARE/SKETCHWARE.md)
 - [PYTHON](https://github.com/kganallinone/KGANTutorials/blob/main/KGAN's%20COLLECTIONS/PYTHON/PY.md)
 - C++
